@@ -75,5 +75,3 @@ float: none;
 
 Disini saya membuat kerangka layout sederhana
 
-
-.
