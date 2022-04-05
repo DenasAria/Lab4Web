@@ -74,4 +74,4 @@ float: none;
 ![img3](https://user-images.githubusercontent.com/101621068/161726130-01c3bccd-b158-48a4-a5d5-ab5f45f4b18b.png)
 
 Disini saya membuat kerangka layout sederhana
-
+l
